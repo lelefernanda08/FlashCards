@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root {
-    --text-color: #a1e9dd;
-    --card-front-color: #2a9ed4;
+    --text-color: #f6f8f8;
+    --card-front-color: #0a78ac;
     --card-back-color: #144480;
 }
 
