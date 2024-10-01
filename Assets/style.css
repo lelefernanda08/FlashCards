@@ -11,7 +11,7 @@ body {
     font-family: Josefin Sans;
 }
 
-.cartao__conteudo {
+.cartao_conteudo {
     background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
