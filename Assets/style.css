@@ -54,6 +54,24 @@ body {
     font-weight: 700;
 }
 
+.cartao:hover .cartao_conteudo{
+    transform: rotateY(180deg);
+}
+
+.cartao_conteudo{
+transform-style: preserve-3d;
+transition: transform 300ms ease-in-out;
+}
+
+.cartao_conteudo h3{
+    backface-visibility: hidden;
+}
+
+.cartao_conteudo_frente,
+.cartao_conteudo_verso{
+    backface-visibility: hidden;
+}
+
 footer {
     background-color: black;
     color: white;
