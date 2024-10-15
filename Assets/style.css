@@ -16,7 +16,7 @@ body {
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
-transition: transform 300ms ease-in-out;
+    transition: transform 300ms ease-in-out;
 }
 
 #container {
@@ -57,12 +57,12 @@ transition: transform 300ms ease-in-out;
     font-weight: 700;
 }
 
-.cartao:hover .cartao_conteudo{
-    transform: rotateY(180deg);
+.cartao:hover .cartao_conteudo {
+    transform: rotateX(180deg);
 }
 
 .cartao_conteudo_frente,
-.cartao_conteudo_verso{
+.cartao_conteudo_verso {
     backface-visibility: hidden;
 }
 
