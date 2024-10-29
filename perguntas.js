@@ -1,9 +1,9 @@
 criaCartao(
     'BIOLOGIA',
-'O que é Seleção Natural?',
-'O organismo mais apto sobrevive e passa suas características aos descendentes, garantindo, portanto, que características vantajosas fixem-se em uma população.'
+    'O que é Seleção Natural?',
+    'O organismo mais apto sobrevive e passa suas características aos descendentes, garantindo, portanto, que características vantajosas fixem-se em uma população.'
 )
-    
+
 criaCartao(
     'GEOGRAFIA',
     'O que é desemprego conjuntural?',
@@ -17,7 +17,7 @@ criaCartao(
 criaCartao(
     'LÍNGUA PORTUGUESA',
     'O que é uma crônica?',
-'A crônica é um gênero textual caracterizado por textos curtos, de linguagem simples que retrata os aspectos da vida cotidiana, geralmente com toques de humor ou ironia.'
+    'A crônica é um gênero textual caracterizado por textos curtos, de linguagem simples que retrata os aspectos da vida cotidiana, geralmente com toques de humor ou ironia.'
 )
 criaCartao(
     'QUÍMICA',
